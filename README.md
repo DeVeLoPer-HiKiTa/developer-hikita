@@ -2,12 +2,8 @@
 
 I am beginner Flutter develoer. I'm 16. I'm responsible, easy-to-learn Fluter developer open to work now. And I am good in Googl'ing!
 
-#
-
 ![Mishkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeVeLoPer-HiKiTa&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-hikita&layout=compact&theme=tokyonight)
-
-#
 
 ## Technologies
 
@@ -17,8 +13,6 @@ I am beginner Flutter develoer. I'm 16. I'm responsible, easy-to-learn Fluter de
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-brightgreen)
 ![VS Code](https://img.shields.io/badge/VS%20Code-informational)
 ![UML](https://img.shields.io/badge/UML-orange)
-
-#
 
 ## Contacts
 
