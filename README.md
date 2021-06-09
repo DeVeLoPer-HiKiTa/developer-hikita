@@ -20,6 +20,3 @@ I am beginner Flutter develoer. I'm 16. I'm responsible, easy-to-learn Fluter de
 [<img width="50" src="./assets/telegram-icon.svg">](https://t.me/Mpa3bM0nkey)
 [<img width="50" src="./assets/vk-icon.svg">](https://vk.com/mpa3bmonkey)
 [<img width="55" src="./assets/gmail-icon.svg">](mailto:mishkov.dd@gmail.com)
-[<img width="55" src="./assets/phone-icon.svg">](tel:+375-29-807-39-09)
-<a href="tel:+375-29-807-39-09">CALL ME</a>
-<img width="55" src="./assets/phone-icon.svg">
