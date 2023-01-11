@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am beginner Flutter develoer. I'm responsible, easy-to-learn Fluter developer open to work now. And I am good in Googl'ing!
+I am Flutter develoer. I'm responsible, easy-to-learn Fluter developer open to work now. And I am good in Googl'ing!
 
 ![Mishkov's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishkov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishkov&layout=compact&theme=tokyonight)
