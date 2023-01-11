@@ -17,6 +17,6 @@ I am Flutter develoer. I'm responsible, easy-to-learn Fluter developer open to w
 ## Contacts
 
 [<img width="50" src="./assets/linkedin-icon.svg">](https://www.linkedin.com/in/mr-desdroid/)
-[<img width="50" src="./assets/telegram-icon.svg">](https://t.me/Mpa3bM0nkey)
+[<img width="50" src="./assets/telegram-icon.svg">](https://t.me/mishkovdd)
 [<img width="50" src="./assets/vk-icon.svg">](https://vk.com/mpa3bmonkey)
 [<img width="55" src="./assets/gmail-icon.svg">](mailto:mishkov.dd@gmail.com)
